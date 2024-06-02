@@ -1,0 +1,20 @@
+﻿  Source.cpp
+  The contents of <filesystem> are available only with C++17 or later.
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(5,21): error C2039: "filesystem": не является членом "std".
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\string(24): message : см. объявление "std"
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(5,31): error C2878: filesystem: пространство имен или класс с таким именем не существует
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(8,22): error C2653: fs: не является именем класса или пространства имен
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(8,30): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(8,30): error C2143: синтаксическая ошибка: отсутствие "," перед "&"
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,30): error C2653: fs: не является именем класса или пространства имен
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,5): error C2530: entry: ссылки должны быть инициализированы
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,5): error C3531: entry: символ, тип которого содержит спецификатор 'auto' должен иметь инициализатор
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,28): error C2143: синтаксическая ошибка: отсутствие ";" перед ":"
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,63): error C2065: directory: необъявленный идентификатор
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,34): error C3861: recursive_directory_iterator: идентификатор не найден
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(10,73): error C2143: синтаксическая ошибка: отсутствие ";" перед ")"
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(11,13): error C2653: fs: не является именем класса или пространства имен
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(11,17): error C3861: is_regular_file: идентификатор не найден
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(11,81): error C2065: pattern: необъявленный идентификатор
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(29,50): error C2660: countFiles: функция не принимает 2 аргументов
+C:\Users\User\OneDrive\Рабочий стол\УЧЕБА!\АКП\PR4\PR4\PR4\Source.cpp(8,5): message : см. объявление "countFiles"
